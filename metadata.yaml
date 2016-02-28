@@ -1,0 +1,28 @@
+_repo: Mosaics-of-Grecian-History_6841
+creator:
+  authors:
+  - agent_name: Willson, Marcius
+    birthdate: 1813
+    deathdate: 1905
+    gutenberg_agent_id: '2212'
+    url: http://www.gutenberg.org/2009/agents/2212
+  - agent_name: Wilson, Robert Pierpont
+    gutenberg_agent_id: '2213'
+    url: http://www.gutenberg.org/2009/agents/2213
+description: ''
+gutenberg_bookshelf:
+- Greece
+- Art
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6841'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DF'
+- !lcsh 'Greece -- History'
+title: Mosaics of Grecian History
+url: http://www.gutenberg.org/ebooks/6841
