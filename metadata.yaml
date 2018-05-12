@@ -1,4 +1,8 @@
 _repo: Mosaics-of-Grecian-History_6841
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Willson, Marcius
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '2213'
     url: http://www.gutenberg.org/2009/agents/2213
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6841#Mosaics-of-Grecian-History
 gutenberg_bookshelf:
 - Greece
 - Art
